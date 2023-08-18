@@ -1,6 +1,7 @@
 # MultiLoader Template
 
-This project provides a Gradle project template that can compile mods for both Forge and Fabric using a common sourceset. This project does not require any third party libraries or dependencies. If you have any questions or want to discuss the project join our [Discord](https://discord.myceliummod.network).
+This project provides a Gradle project template that can compile mods for both Forge and Fabric using a common sourceset. This project does not require any third party libraries or dependencies. 
+This is a fork of the MultijLoader-Template [jaredlll08](form https://github.com/jaredlll08/MultiLoader-Template) that has been tailored to the needs of NLM. If you have any questions or want to discuss the base project join their [Discord](https://discord.myceliummod.network).
 
 ## Getting Started
 
