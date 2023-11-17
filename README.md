@@ -35,6 +35,13 @@ While the MultiLoader Template includes support for many platforms and loaders y
 1. Delete the subproject folder. For example, delete `MultiLoader-Template/forge`.
 2. Remove the project from `settings.gradle`. For example, remove `include("forge")`.
 
+## Removing Platforms and Loaders
+
+While the MultiLoader Template includes support for many platforms and loaders you can easily remove support for the ones you don't need. This can be done by deleting the subproject folder and then removing it from the `settings.gradle` file. For example if you wanted to remove support for Forge you would follow the following steps.
+
+1. Delete the subproject folder. For example, delete `MultiLoader-Template/forge`.
+2. Remove the project from `settings.gradle`. For example, remove `include("forge")`.
+
 ## Disclaimers
 
 this project is not affiliated with mojang or microsoft studios
